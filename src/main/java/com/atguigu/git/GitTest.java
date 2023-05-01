@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("这是第一个 git file4");
         System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("pull test");
 
     }
 }
